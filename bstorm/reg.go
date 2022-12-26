@@ -8,7 +8,7 @@
 package main
 
 import "fmt"
-import re "github.com/moovweb/rubex"
+import re "github.com/0x1un/rubex"
 import "time"
 import "regexp"
 import "runtime"
